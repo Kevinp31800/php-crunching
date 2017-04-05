@@ -13,7 +13,7 @@ Le résultat est alors un tableau contenant tous les mots.
 
 ### Exercices
 
-* Combien de mots contient ce dictionnaire ?
+* Combien de mots contient ce dictionnaire ? 336531 mots
 * Combien de mots font exactement 15 caractères ?
 * Combien de mots contiennent la lettre « w » ?
 * Combien de mots finissent par la lettre « q » ?
